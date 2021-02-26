@@ -1,0 +1,10 @@
+.note{
+      .note__container{
+            display: flex;
+            justify-content: space-between;
+            .notes__body{
+                  display: flex;
+                  flex-direction: column;
+            }
+      }
+}

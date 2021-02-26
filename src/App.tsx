@@ -1,9 +1,13 @@
-import React from 'react';
+import React from "react";
+import { HomePage } from "./pages/HomePage";
+import './scss/index.scss'
 
 const App = () => {
-  return <div className="App">
-    test
-  </div>
-}
+  return (
+    <div className="App">
+      <HomePage />
+    </div>
+  );
+};
 
 export default App;

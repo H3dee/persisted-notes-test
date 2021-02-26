@@ -1,0 +1,10 @@
+.notes-list{
+      .notes-list__container{
+            display: flex;
+            flex-direction: column;
+            .notes-list__tabs{
+                  align-self: center;
+                  display: flex;
+            }
+      }
+}

@@ -1,0 +1,16 @@
+.search-form {
+  position: relative;
+  .search-form__icon {
+    position: absolute;
+    left: 0;
+    z-index: 2;
+  }
+  input {
+    position: absolute;
+    width: 100%;
+  }
+  .search-form__btn {
+    position: absolute;
+    right: 0;
+  }
+}
