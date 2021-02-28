@@ -1,6 +1,6 @@
 import React from "react";
-import { SearchForm } from "../../components(shared)/SearchForm";
-import { NotesList } from "./NotesList";
+import { SearchForm } from "../../components(shared)/SearchForm/SearchForm";
+import { NotesList } from "./NotesList/NotesList";
 import './styles.scss'
 
 export const HomePage: React.FC = () => {
