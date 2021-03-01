@@ -51,6 +51,10 @@
   },
   "devDependencies": {
     "@types/crypto-js": "^4.0.1",
-    "@types/react-redux": "^7.1.16"
+    "@types/qs": "^6.9.5",
+    "@types/react-redux": "^7.1.16",
+    "@types/redux-state-sync": "^3.1.1",
+    "qs": "^6.9.6",
+    "redux-state-sync": "^3.1.2"
   }
 }

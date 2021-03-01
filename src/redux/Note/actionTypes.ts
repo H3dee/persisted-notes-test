@@ -1,3 +1,4 @@
-export const SET_NOTES = "SET_NOTES";
+export const FETCH_NOTES = "FETCH_NOTES";
+export const CLEANUP_NOTES = "CLEANUP_NOTES"
 export const ADD_TO_BOOKMARKS = "ADD_TO_BOOKMARKS";
 export const REMOVE_FROM_BOOKMARKS = "REMOVE_FROM_BOOKMARKS";
